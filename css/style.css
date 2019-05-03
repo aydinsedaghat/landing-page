@@ -1,0 +1,20 @@
+#main{
+margin:15px;
+margin-top:30px;
+margin-right:auto;
+margin-left:auto;
+margin-botton:30px;
+padding-top: 15px;
+padding-right: 15px;
+padding-bottom: 15px;
+padding-left: 15px;
+
+border-radius:10px;
+background: #c4ddfc;
+text-align: center;
+  font-family:waree;}
+ 
+  #wiki{border: solid;
+background: #FFA500;
+border-radius:10px;
+}
